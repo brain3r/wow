@@ -31,7 +31,7 @@
 		[SpellName(144639] = 6, -- Corruption
 		[SpellName(144850] = 5, -- Test of Reliance
 		[SpellName(145861] = 6, -- Self-Absorbed (Dispell)
-		[SpellName(144851] = 23, -- Test of Confidence (tanks)
+		[SpellName(144851] = 3, -- Test of Confidence (tanks)
 		[SpellName(146703] = 3, -- Bottomless Pit
 		[SpellName(144514] = 6, -- Lingering Corruption
 		[SpellName(144849] = 4, -- Test of Serenity
