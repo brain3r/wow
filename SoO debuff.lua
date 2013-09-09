@@ -2,13 +2,13 @@
 
 		-- Immerseus
 		[SpellName(143297] = 5, -- Sha Splash
-		[SpellName(143459] = 5, -- Sha Resue
-		[SpellName(143524] = 4, -- Purified Resue
+		[SpellName(143459] = 5, -- Sha Residue
+		[SpellName(143524] = 4, -- Purified Residue
 		[SpellName(143286] = 4, -- Seeping Sha
 		[SpellName(143413] = 3, -- Swirl
-		[SpellName(143411] = 3, -- Swirl
 		[SpellName(143436] = 2, -- Corrosive Blast (tanks)
 		[SpellName(143579] = 3, -- Sha Corruption (Heroic Only)
+		[SpellName(143462] = 3, -- Sha Pool (Heroic Only)
 
 		-- Fallen Protectors
 		[SpellName(143239] = 4, -- Noxious Poison
